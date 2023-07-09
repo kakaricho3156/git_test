@@ -9,3 +9,5 @@ topicA
 
 
 topic-B
+
+topic-c
